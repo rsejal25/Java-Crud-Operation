@@ -1,0 +1,69 @@
+.error
+{
+color:red;
+}
+.main-container
+{
+height:auto;
+width:90hw;
+border:1px solid black;
+margin:5px;
+}
+.login
+{
+float:right;
+margin-right:10px;
+margin-top:5px;
+}
+.header
+{
+height:80px;
+width:90hw;
+border:1px solid black;
+margin:5px;
+}
+.logo
+{
+float:left;
+}
+.brand-name
+{
+float:left;
+margin-top:20px;
+margin-bottom:30px;
+font-size:20px;
+}
+.content
+{
+height:70vh;
+width:90hw;
+margin:5px;
+border:1px solid black;
+}
+.content-left-panel
+{
+height:60vh;
+margin:5px;
+border:1px solid black;
+float:left;
+padding:5px;
+}
+.content-right-panel
+{
+border:1px solid black;
+height:60vh;
+margin-top:5px;
+margin-left:100px;
+margin-right:5px;
+margin-bottom:5px;
+padding:5px;
+overflow:scroll;
+}
+.footer
+{
+height:auto;
+width:90hw;
+margin:5px;
+border:1px solid black;
+text-align:center;
+}
